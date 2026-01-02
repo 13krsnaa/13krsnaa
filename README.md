@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 Who Am I?
 
-- 🎓 B.Tech @AKTU_University 
-- 💻 frontend | MERN Stack
+- 🎓 B.Tech @FUTUREUNIVERSIY 
+- 💻 Full Stack Developer | MERN Stack | SQL , NO-SQL
 - 🧩 Love system design and clean architecture
 - 🎯 Goal: Intership within 8-9 months  
 - 💼 Currently: Learning Database ..deploying real world project
@@ -22,8 +22,8 @@
 |----------------|------------------------------------------------------------------------------|
 | **Frontend**   | React, Next.js, TypeScript, Bootstrap CSS                                    |
 | **Backend**    | Node.js, Express                                                             |
-| **Databases**  | Learning.....                                                                |
-| **DevOps**     |  AWS (EC2/S3), GitHub Actions                                                |
+| **Databases**  | MongoDB                                                                      |
+| **DevOps**     | AWS (EC2/S3), GitHub Actions                                                 |
 | **Tools**      | Git, GitHub,Linux, VS Code                                                   |
 
 <p align="center">
