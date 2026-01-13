@@ -20,11 +20,11 @@
 
 | Area           | Tools & Tech                                                                 |
 |----------------|------------------------------------------------------------------------------|
-| **Frontend**   | React, Next.js, TypeScript, Bootstrap CSS                                    |
-| **Backend**    | Node.js, Express                                                             |
-| **Databases**  | MongoDB                                                                      |
+| **Frontend**   |  JavaScript, React, Next.js, TypeScript, Tailwind CSS                        |
+| **Backend**    | Node.js, Express, REST API's, JWT Authentication                             |
+| **Databases**  | MongoDB, Postgree SQL,                                                       |
 | **DevOps**     | AWS (EC2/S3), GitHub Actions                                                 |
-| **Tools**      | Git, GitHub,Linux, VS Code                                                   |
+| **Tools**      | Git, GitHub,Linux, VS Code,                                                  |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,linux,git,github" />
