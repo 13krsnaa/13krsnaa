@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Who Am I?
 
-- 🎓 B.Tech @FUTUREUNIVERSIY 
+- 🎓 B.Tech @FUTUREUNIVERSIY | 6th Sem 
 - 💻 Full Stack Developer | MERN Stack | SQL , NO-SQL
 - 🧩 Love system design and clean architecture
 - 🎯 Goal: Intership within 8-9 months  
@@ -21,8 +21,8 @@
 | Area           | Tools & Tech                                                                 |
 |----------------|------------------------------------------------------------------------------|
 | **Frontend**   |  JavaScript, React, Next.js, TypeScript, Tailwind CSS                        |
-| **Backend**    | Node.js, Express, REST API's, JWT Authentication                             |
-| **Databases**  | MongoDB, Postgree SQL,                                                       |
+| **Backend**    | Node.js, Express, REST API's, JWT/Bcypt/Oauth                                |
+| **Databases**  | MongoDB, Postgree SQL, MYSQL                                                 |
 | **DevOps**     | AWS (EC2/S3), GitHub Actions                                                 |
 | **Tools**      | Git, GitHub,Linux, VS Code,                                                  |
 
@@ -35,7 +35,7 @@
 
 ## 🎯 Current Focus
 
-- Deepening **backend & database internals** (queries, indexes, transactions, caching)  
+- Deepening **backend & database internals**  
 - Becoming comfortable with **Docker + AWS deployment workflows**  
 - Writing **predictable, testable, readable** code  
 - Contributing more to **open-source & real-world products**
