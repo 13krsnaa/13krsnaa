@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Keshav%20Saxena&fontSize=42&fontAlignY=35&desc=13krsnaa&descAlignY=55&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" />
-
 <div align="center">
 
 ```
@@ -248,7 +246,5 @@ _"Code. Ship. Learn. Repeat."_
 ![GitHub Stars](https://img.shields.io/github/stars/13krsnaa?style=flat-square&color=36BCF7&labelColor=0d1117)
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
 
 </div>
