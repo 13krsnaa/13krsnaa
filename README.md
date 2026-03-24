@@ -35,14 +35,11 @@
 
 ```yaml
 name: Keshav Saxena
-alias: 13krsnaa
-role: Full Stack Developer (Backend Leaning)
-education: B.Tech — Future University | 6th Semester
-location: India 📍
-focus: MERN Stack · System Design · Clean Architecture · DevOps
+role: Full Stack Developer
+education: B.Tech — Dr. APJ Abdul Kalam Technical University | 6th Semester
+focus: System Design · Clean Architecture · DevOps
 currently: Deepening DB internals · Docker + AWS workflows · Open Source
 goal: 🎯 Land a solid internship within 8–9 months
-philosophy: "Code. Ship. Learn. Repeat."
 status: 🟢 Open to Internships & Collaborations
 ```
 
@@ -90,7 +87,6 @@ status: 🟢 Open to Internships & Collaborations
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -117,7 +113,7 @@ status: 🟢 Open to Internships & Collaborations
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## `> ls ./projects --verbose`
+<!-- ## `> ls ./projects --verbose`
 
 ### 🔷 [DevSpace](https://github.com/13krsnaa) — Full-Stack Developer & Recruiter Platform
 
@@ -147,7 +143,7 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
     - Contributing to open source
 ```
 
-> _Check my [GitHub repositories](https://github.com/13krsnaa?tab=repositories) for the latest work!_
+> _Check my [GitHub repositories](https://github.com/13krsnaa?tab=repositories) for the latest work!_ -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
@@ -213,13 +209,6 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 <br/><br/>
 
-<!-- Ocean animation — Snake grows as it eats contribution boxes! 🐍 -->
-<img src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/ocean.gif" alt="Snake eating contributions" width="100%" />
-
-</div>
-
-> ⚠️ **Snake animation setup:** The GitHub Action workflow (`.github/workflows/snake.yml`) is included. Just push to `main` branch and it will auto-generate! You can also trigger it manually from GitHub Actions tab.
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## `> echo $PHILOSOPHY`
@@ -229,11 +218,11 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 const KeshavSaxena = {
   pronouns: "He/Him",
-  education: "B.Tech @ Future University — 6th Sem",
+  education: "B.Tech @ Dr. APJ Abdul Kalam Technical University — 6th Sem",
   code: ["JavaScript", "TypeScript", "C++", "SQL"],
   tools: ["React", "Next.js", "Node.js", "Express", "Docker", "AWS"],
   architecture: ["MVC", "REST APIs", "Clean Architecture", "Microservices"],
-  currentlyLearning: "Database Internals & Docker Deployments",
+  currentlyLearning: ["Database Internals & Docker Deployments"],
 
   motto() {
     return "Code. Ship. Learn. Repeat. 🔁";
@@ -243,44 +232,6 @@ const KeshavSaxena = {
     return "I debug with console.log and I'm not ashamed of it 😄";
   },
 };
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-## 🎯 2025 Roadmap
-
-- [x] 🟢 Learn MERN Stack thoroughly
-- [x] 🟢 Build & deploy a full-stack project (DevSpace)
-- [x] 🟢 Get comfortable with TypeScript
-- [ ] 🔵 Master Docker & containerization
-- [ ] 🔵 Deploy projects on AWS (EC2, S3, RDS)
-- [ ] 🔵 Contribute to 5+ open-source projects
-- [ ] 🔵 Learn system design fundamentals
-- [ ] 🟡 Land a solid internship / remote role
-- [ ] 🟡 Build a microservices-based project
-- [ ] 🟡 Learn Go / Rust for backend performance
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-## ⚡ Fun Facts
-
-```
-🎮 I can code for 6+ hours straight without realizing it
-🧠 I love reading about system design even when I don't need to
-🌙 Most productive after midnight 🦉
-☕ Chai > Coffee (non-negotiable)
-📚 "Clean Code" by Uncle Bob changed how I write code
-🎯 I believe in shipping first, perfecting later
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
