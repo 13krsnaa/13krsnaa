@@ -25,7 +25,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/13krsnaa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/13krsnaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxenakrishna9140@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hellokshv.vercel.app)
 
 </div>
 
@@ -101,7 +101,6 @@ status: 🟢 Open to Internships & Collaborations
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## `> cat current_focus.log`
-
 ```diff
 + 🔧 Deepening backend & database internals
 + 🐳 Getting comfortable with Docker + AWS deployment workflows
@@ -148,7 +147,6 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## `> cat interests.txt`
-
 ```
 📐 System Design & Clean Architecture
 🔧 Backend Engineering & Database Internals
@@ -180,7 +178,7 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="100%" />
 </a>
 
 </div>
@@ -213,16 +211,14 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 ## `> echo $PHILOSOPHY`
 
-```js
-// keshav_saxena.js
-
+```javascript
 const KeshavSaxena = {
   pronouns: "He/Him",
-  education: "B.Tech @ Dr. APJ Abdul Kalam Technical University — 6th Sem",
+  education: "B.Tech @ AKTU — 6th Semester",
   code: ["JavaScript", "TypeScript", "C++", "SQL"],
   tools: ["React", "Next.js", "Node.js", "Express", "Docker", "AWS"],
   architecture: ["MVC", "REST APIs", "Clean Architecture", "Microservices"],
-  currentlyLearning: ["Database Internals & Docker Deployments"],
+  currentlyLearning: "Database Internals & Docker Deployments",
 
   motto() {
     return "Code. Ship. Learn. Repeat. 🔁";
