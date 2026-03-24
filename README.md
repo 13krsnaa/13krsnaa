@@ -1,67 +1,325 @@
-<h1 align="center">Hey, I'm Keshav saxena👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Keshav%20Saxena&fontSize=42&fontAlignY=35&desc=13krsnaa&descAlignY=55&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" />
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██╗  ██╗███████╗███████╗██╗  ██╗ █████╗ ██╗   ██╗             ║
+║   ██║ ██╔╝██╔════╝██╔════╝██║  ██║██╔══██╗██║   ██║             ║
+║   █████╔╝ █████╗  ███████╗███████║███████║██║   ██║             ║
+║   ██╔═██╗ ██╔══╝  ╚════██║██╔══██║██╔══██║╚██╗ ██╔╝             ║
+║   ██║  ██╗███████╗███████║██║  ██║██║  ██║ ╚████╔╝              ║
+║   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝               ║
+║                     S A X E N A                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+### `$ whoami` → Full Stack Developer · Backend Enthusiast · Cloud & DevOps
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker;Building+scalable+web+apps+%26+backend+systems+%F0%9F%94%A5;Clean+Architecture+%7C+System+Design+%7C+REST+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/13krsna/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/13krsnaa)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/13krsnaa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxenakrishna9140@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## `> init profile`
+
+```yaml
+name: Keshav Saxena
+alias: 13krsnaa
+role: Full Stack Developer (Backend Leaning)
+education: B.Tech — Future University | 6th Semester
+location: India 📍
+focus: MERN Stack · System Design · Clean Architecture · DevOps
+currently: Deepening DB internals · Docker + AWS workflows · Open Source
+goal: 🎯 Land a solid internship within 8–9 months
+philosophy: "Code. Ship. Learn. Repeat."
+status: 🟢 Open to Internships & Collaborations
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## `> ls ./tech-stack`
+
+<div align="center">
+
+### 🔤 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23FF6600.svg?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-%23EB5424.svg?style=flat-square&logo=auth0&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat-square)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
+
+### 🚀 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend-first+Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Web+Applications;Open+Source+%26+Real-World+Projects" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,linux,git,github,vscode,postman,tailwind&perline=9" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## 🧑‍💻 Who Am I?
+## `> cat current_focus.log`
 
-- 🎓 B.Tech @FUTUREUNIVERSIY | 6th Sem 
-- 💻 Full Stack Developer | MERN Stack | SQL , NO-SQL
-- 🧩 Love system design and clean architecture
-- 🎯 Goal: Intership within 8-9 months  
-- 💼 Currently: Learning Database ..deploying real world project
+```diff
++ 🔧 Deepening backend & database internals
++ 🐳 Getting comfortable with Docker + AWS deployment workflows
++ ✍️ Writing predictable, testable, readable code
++ 🌍 Contributing more to open-source & real-world products
++ 📐 Learning system design patterns & clean architecture
++ 🔄 Building & deploying real-world projects end-to-end
+```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## ⚙️ Tech Stack
+## `> ls ./projects --verbose`
 
-| Area           | Tools & Tech                                                                 |
-|----------------|------------------------------------------------------------------------------|
-| **Frontend**   |  JavaScript, React, Next.js, TypeScript, Tailwind CSS                        |
-| **Backend**    | Node.js, Express, REST API's, JWT/Bcypt/Oauth                                |
-| **Databases**  | MongoDB, Postgree SQL, MYSQL                                                 |
-| **DevOps**     | AWS (EC2/S3), GitHub Actions                                                 |
-| **Tools**      | Git, GitHub,Linux, VS Code,                                                  |
+### 🔷 [DevSpace](https://github.com/13krsnaa) — Full-Stack Developer & Recruiter Platform
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,linux,git,github" />
-</p>
+```
+Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.io • TailwindCSS
+```
 
----
+> A platform connecting developers and recruiters with real-time features
 
-
-## 🎯 Current Focus
-
-- Deepening **backend & database internals**  
-- Becoming comfortable with **Docker + AWS deployment workflows**  
-- Writing **predictable, testable, readable** code  
-- Contributing more to **open-source & real-world products**
+| Feature            | Detail                                             |
+| ------------------ | -------------------------------------------------- |
+| 🔐 Auth            | JWT + OAuth based authentication                   |
+| 💬 Real-time Chat  | Socket.io powered messaging                        |
+| 📝 Problem Solving | Integrated coding problems with submissions        |
+| 📊 Dashboard       | Contribution heatmap & user statistics             |
+| 📱 Responsive      | Fully mobile-responsive design                     |
+| 🎨 Theme           | Cyber Flora — Parrot Green + Matte Black aesthetic |
 
 ---
 
-## 🌐 Connect With Me
+### 🔷 [More Projects Coming Soon...](https://github.com/13krsnaa)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/13krsna/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/13krsnaa" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://github.com/13krsnaa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:saxenakrishna9140@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+```
+🚧 Currently building and deploying more real-world projects
+    - Exploring microservices architecture
+    - Working with Docker & AWS
+    - Contributing to open source
+```
 
----
+> _Check my [GitHub repositories](https://github.com/13krsnaa?tab=repositories) for the latest work!_
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-<p align="center">
-  <b>"Code. Ship. Learn. Repeat."</b>
-</p>
+## `> cat interests.txt`
+
+```
+📐 System Design & Clean Architecture
+🔧 Backend Engineering & Database Internals
+🌐 Full-Stack Web Development
+🐳 Docker & Cloud Deployments (AWS)
+🔒 Authentication & Security (JWT, OAuth, Bcrypt)
+🧪 Writing Testable & Maintainable Code
+🌍 Open Source Contributions
+🚀 Shipping Real-World Products
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## `> git stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=13krsnaa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=13krsnaa&theme=tokyonight&border_radius=10&hide_border=true&background=0d1117&ring=36BCF7&fire=ff6b6b&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=888888" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13krsnaa&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" width="40%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## 🏅 GitHub Badges & Achievements
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=13krsnaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=13krsnaa&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+> 💡 _Official GitHub Achievements like Pull Shark, Quickdraw, and more are automatically updated here!_
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=13krsnaa&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ff6b6b&area=true&area_color=36BCF7&hide_border=true&custom_title=Keshav's%20Contribution%20Graph" width="95%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> ⚠️ **Snake animation setup:** The GitHub Action workflow (`.github/workflows/snake.yml`) is included. Just push to `main` branch and it will auto-generate! You can also trigger it manually from GitHub Actions tab.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## `> echo $PHILOSOPHY`
+
+```js
+// keshav_saxena.js
+
+const KeshavSaxena = {
+  pronouns: "He/Him",
+  education: "B.Tech @ Future University — 6th Sem",
+  code: ["JavaScript", "TypeScript", "C++", "SQL"],
+  tools: ["React", "Next.js", "Node.js", "Express", "Docker", "AWS"],
+  architecture: ["MVC", "REST APIs", "Clean Architecture", "Microservices"],
+  currentlyLearning: "Database Internals & Docker Deployments",
+
+  motto() {
+    return "Code. Ship. Learn. Repeat. 🔁";
+  },
+
+  funFact() {
+    return "I debug with console.log and I'm not ashamed of it 😄";
+  },
+};
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## 🎯 2025 Roadmap
+
+- [x] 🟢 Learn MERN Stack thoroughly
+- [x] 🟢 Build & deploy a full-stack project (DevSpace)
+- [x] 🟢 Get comfortable with TypeScript
+- [ ] 🔵 Master Docker & containerization
+- [ ] 🔵 Deploy projects on AWS (EC2, S3, RDS)
+- [ ] 🔵 Contribute to 5+ open-source projects
+- [ ] 🔵 Learn system design fundamentals
+- [ ] 🟡 Land a solid internship / remote role
+- [ ] 🟡 Build a microservices-based project
+- [ ] 🟡 Learn Go / Rust for backend performance
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## ⚡ Fun Facts
+
+```
+🎮 I can code for 6+ hours straight without realizing it
+🧠 I love reading about system design even when I don't need to
+🌙 Most productive after midnight 🦉
+☕ Chai > Coffee (non-negotiable)
+📚 "Clean Code" by Uncle Bob changed how I write code
+🎯 I believe in shipping first, perfecting later
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Together!
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────┐
+│  📬  saxenakrishna9140@gmail.com                      │
+│  📍  India                                            │
+│  🎓  B.Tech @ Future University — 6th Semester        │
+│  🟢  Open to Internships & Collaborations             │
+└──────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+_"Code. Ship. Learn. Repeat."_
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=13krsnaa&color=36BCF7&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/13krsnaa?style=flat-square&color=36BCF7&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/13krsnaa?style=flat-square&color=36BCF7&labelColor=0d1117)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
+
+</div>
