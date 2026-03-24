@@ -3,7 +3,7 @@ name: GitHub Profile 3D Contribution Graph
 on:
   schedule:
     - cron: "0 */24 * * *" # Runs every 24 hours
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch: {} # Manual trigger
   push:
     branches:
       - main
@@ -12,6 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4

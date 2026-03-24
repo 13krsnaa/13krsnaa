@@ -332,7 +332,9 @@ module.exports = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-?" width="80%" />
+</a>
 
 </div>
 
@@ -361,6 +363,11 @@ module.exports = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+<br/><br/>
+
+<!-- Ocean animation — Snake grows as it eats contribution boxes! 🐍 -->
+<img src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/ocean.gif" alt="Snake eating contributions" width="100%" />
 
 </div>
 

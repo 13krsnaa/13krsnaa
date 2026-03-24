@@ -179,26 +179,13 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## 🏅 GitHub Badges & Achievements
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=13krsnaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=13krsnaa&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-> 💡 _Official GitHub Achievements like Pull Shark, Quickdraw, and more are automatically updated here!_
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?" width="90%" />
+</a>
 
 </div>
 
@@ -223,6 +210,11 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake-dark.svg" />
 </picture>
+
+<br/><br/>
+
+<!-- Ocean animation — Snake grows as it eats contribution boxes! 🐍 -->
+<img src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/ocean.gif" alt="Snake eating contributions" width="100%" />
 
 </div>
 
