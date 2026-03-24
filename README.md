@@ -101,6 +101,7 @@ status: 🟢 Open to Internships & Collaborations
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## `> cat current_focus.log`
+
 ```diff
 + 🔧 Deepening backend & database internals
 + 🐳 Getting comfortable with Docker + AWS deployment workflows
@@ -147,6 +148,7 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## `> cat interests.txt`
+
 ```
 📐 System Design & Clean Architecture
 🔧 Backend Engineering & Database Internals
@@ -177,9 +179,7 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="100%" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=13krsnaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -211,7 +211,7 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 ## `> echo $PHILOSOPHY`
 
-```javascript
+```js
 const KeshavSaxena = {
   pronouns: "He/Him",
   education: "B.Tech @ AKTU — 6th Semester",
