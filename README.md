@@ -173,15 +173,7 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## 📊 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=13krsnaa&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ff6b6b&area=true&area_color=36BCF7&hide_border=true&custom_title=Keshav's%20Contribution%20Graph" width="95%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 🐍 Contribution Snake
 
