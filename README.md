@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   ██╗  ██╗███████╗███████╗██╗  ██╗ █████╗ ██╗   ██╗             ║
@@ -11,7 +11,7 @@
 ║   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝               ║
 ║                     S A X E N A                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 ### `$ whoami` → Full Stack Developer · Backend Enthusiast · Cloud & DevOps
 
@@ -214,14 +214,14 @@ const KeshavSaxena = {
 
 <br/>
 
-```
+<pre>
 ┌──────────────────────────────────────────────────────┐
 │  📬  saxenakrishna9140@gmail.com                      │
 │  📍  India                                            │
 │  🎓  B.Tech @ Future University — 6th Semester        │
-│  🟢  Open to Internships & Collaborations             │
+│  🟢  Open to Internships &amp; Collaborations             │
 └──────────────────────────────────────────────────────┘
-```
+</pre>
 
 <br/>
 
