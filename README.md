@@ -173,27 +173,17 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## 📊 Contribution Graph
+
+
+## 🟡 Pac-Man Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=13krsnaa&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ff6b6b&area=true&area_color=36BCF7&hide_border=true&custom_title=Keshav's%20Contribution%20Graph" width="95%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions"/>
+</p>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/github-snake-dark.svg" />
-</picture>
-
-<br/><br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
