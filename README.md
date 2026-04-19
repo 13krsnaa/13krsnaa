@@ -33,7 +33,7 @@
 
 ```yaml
 name: Keshav Saxena
-role: Full Stack Developer
+role: Full Stack Developer & DevOps Engineer
 education: B.Tech — Dr. APJ Abdul Kalam Technical University | 6th Semester
 focus: System Design · Clean Architecture · DevOps
 currently: Deepening DB internals · Docker + AWS workflows · Open Source
@@ -176,8 +176,6 @@ Stack: Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Socket.i
 
 
 ## 🟡 Pac-Man Contribution Graph
-
-<div align="center">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions"/>
