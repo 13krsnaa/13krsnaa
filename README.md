@@ -46,7 +46,7 @@ status: 🟢 Open to Internships & Collaborations
 ## `> ls ./tech-stack`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/13krsnaa/13krsnaa/main/.github/TechStack.png" alt="Tech Stack" width="100%">
+  <img src="https://i.ibb.co/pvDFZTqD/Tech-Stack.png" alt="Tech Stack" width="100%">
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
